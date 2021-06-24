@@ -1,0 +1,7 @@
+{
+  "name": "WorkoutTerminal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

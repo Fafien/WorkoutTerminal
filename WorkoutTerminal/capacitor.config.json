@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "WorkoutTerminal",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
